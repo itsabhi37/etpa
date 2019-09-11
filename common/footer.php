@@ -2,7 +2,7 @@
 <footer class="sticky-footer">
     <div class="container my-auto">
         <div class="copyright text-center my-auto">
-            <span>Designed, Developed & Maintained By <a href="https://dhanbad.nic.in" target="blank">National Informatics Centre, Dhanbad</a></span>
+            <!--<span>Designed, Developed & Maintained By <a href="https://dhanbad.nic.in" target="blank">National Informatics Centre, Dhanbad</a></span>-->
             <p class="text-info"><small>Version 2.3.0</small></p>
         </div>
     </div>
